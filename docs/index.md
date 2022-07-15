@@ -1,1 +1,1 @@
-# Hello VitePress
+# Hello Here's rick blog

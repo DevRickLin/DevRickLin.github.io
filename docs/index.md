@@ -1,1 +1,1 @@
-# Hello Here's rick blog
+# Hello here is Rick's blog

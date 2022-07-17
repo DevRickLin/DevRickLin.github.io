@@ -13,6 +13,6 @@ next: false
 interface Rick {
   speak: 'Chinese' | 'English' | 'Japanese'
   skill: 'Typescript' | 'Javascript' | 'Vue'
-  work: ( iceCoffee, music, passion ) => code 
+  dailyJob: ( iceCoffee, music, passion ) => code 
 }
 ```
